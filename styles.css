@@ -60,4 +60,28 @@ h2 {
   align-items: flex-end;
   justify-content: flex-end;
 }
+
+.foot-icons{
+  position: relative;
+  right: 500px;
+  top: 40px;
+}
+.social:hover {
+  transform: scale(1.1);
+  transform: scale(1.1);
+  transform: scale(1.1);
+}
+.socialf:hover {
+  color: #3B5998;
+  
+}
+.socialt:hover {
+  color: #4099FF;
+}
+.socialg:hover {
+  color: #d34836;
+}
+.sociale:hover {
+  color: #f39c12;
+}
 /* Footer Content Finish */
